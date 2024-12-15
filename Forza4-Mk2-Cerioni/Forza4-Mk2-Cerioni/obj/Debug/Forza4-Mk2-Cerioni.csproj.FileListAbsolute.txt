@@ -1,0 +1,11 @@
+C:\Users\utente\SCUOLA\INFORMATICA\vscode\C#\VSTUDIO PROJECTS\Forza4-Mk2-Cerioni\Forza4-Mk2-Cerioni\bin\Debug\Forza4-Mk2-Cerioni.exe.config
+C:\Users\utente\SCUOLA\INFORMATICA\vscode\C#\VSTUDIO PROJECTS\Forza4-Mk2-Cerioni\Forza4-Mk2-Cerioni\bin\Debug\Forza4-Mk2-Cerioni.exe
+C:\Users\utente\SCUOLA\INFORMATICA\vscode\C#\VSTUDIO PROJECTS\Forza4-Mk2-Cerioni\Forza4-Mk2-Cerioni\bin\Debug\Forza4-Mk2-Cerioni.pdb
+C:\Users\utente\SCUOLA\INFORMATICA\vscode\C#\VSTUDIO PROJECTS\Forza4-Mk2-Cerioni\Forza4-Mk2-Cerioni\obj\Debug\Forza4-Mk2-Cerioni.csprojAssemblyReference.cache
+C:\Users\utente\SCUOLA\INFORMATICA\vscode\C#\VSTUDIO PROJECTS\Forza4-Mk2-Cerioni\Forza4-Mk2-Cerioni\obj\Debug\Forza4_Mk2_Cerioni.FrmGioco.resources
+C:\Users\utente\SCUOLA\INFORMATICA\vscode\C#\VSTUDIO PROJECTS\Forza4-Mk2-Cerioni\Forza4-Mk2-Cerioni\obj\Debug\Forza4_Mk2_Cerioni.FrmMain.resources
+C:\Users\utente\SCUOLA\INFORMATICA\vscode\C#\VSTUDIO PROJECTS\Forza4-Mk2-Cerioni\Forza4-Mk2-Cerioni\obj\Debug\Forza4_Mk2_Cerioni.Properties.Resources.resources
+C:\Users\utente\SCUOLA\INFORMATICA\vscode\C#\VSTUDIO PROJECTS\Forza4-Mk2-Cerioni\Forza4-Mk2-Cerioni\obj\Debug\Forza4-Mk2-Cerioni.csproj.GenerateResource.cache
+C:\Users\utente\SCUOLA\INFORMATICA\vscode\C#\VSTUDIO PROJECTS\Forza4-Mk2-Cerioni\Forza4-Mk2-Cerioni\obj\Debug\Forza4-Mk2-Cerioni.csproj.CoreCompileInputs.cache
+C:\Users\utente\SCUOLA\INFORMATICA\vscode\C#\VSTUDIO PROJECTS\Forza4-Mk2-Cerioni\Forza4-Mk2-Cerioni\obj\Debug\Forza4-Mk2-Cerioni.exe
+C:\Users\utente\SCUOLA\INFORMATICA\vscode\C#\VSTUDIO PROJECTS\Forza4-Mk2-Cerioni\Forza4-Mk2-Cerioni\obj\Debug\Forza4-Mk2-Cerioni.pdb
